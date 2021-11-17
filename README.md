@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HappyEitos
 - 👀 I’m interested in web develop
-- 🌱 I’m currently learning html,css,java script
+- 🌱 I’m currently learning html,css,javascript
 - 💞️ I’m looking to collaborate on alone...
 - 📫 How to reach me Silicon Valley
 
